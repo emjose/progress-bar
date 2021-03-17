@@ -1,13 +1,13 @@
+<p id="Project-title"><p>
 
-<!-- <p id="project-title"><p>
-
-<a href=#table-of-contents>![Project Title](Assets/inter-project-title.png)</a>  -->
+<a href=#table-of-contents>![Progress Bar](Assets/inter-003-progress-bar.png)</a> 
 
 #
 <p id="table-of-contents"><p>
 
 <a href=#table-of-contents>![Table of Contents](Assets/inter-toc.png)</a>  
 
+- [100 Days of Code](#100)
 - [Background](#background) 
 - [Technologies](#technologies) 
 - [Getting Started](#getting-started) 
@@ -17,6 +17,15 @@
 - [Demo](#demo)
 - [Resources](#resources)
 - [Let's Connect!](#lets-connect) 
+
+#
+
+<p id="100days"><p>
+
+<a href=#table-of-contents>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
+
+test\
+test
 
 #
 
@@ -97,5 +106,5 @@ test
 
 #
 
-<a href=#Project-Title>![Back to Top](Assets/inter-congrats.png)</a>
+<a href=#Project-title>![Back to Top](Assets/inter-congrats.png)</a>
 
