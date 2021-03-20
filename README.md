@@ -2,7 +2,7 @@
 
 <a href=#table-of-contents>![Progress Bar](Assets/inter-003-progress-bar.png)</a> 
 
-<a href="https://emjose.github.io/progress-bar">![](Assets/preview-003-progress-bar.png)</a> 
+<a href="https://emjose.github.io/progress-bar">![Progress Bar](Assets/preview-003-progress-bar.png)</a> 
 
 #
 <p id="table-of-contents"><p>
