@@ -37,7 +37,7 @@
 ### Day 3: February 4, 2021
 - For Day 3, I turned a tutorial for a progress bar into 10 steps for overcoming imposter syndrome.
 
-- The 10 steps are from this <a href="https://impostorsyndrome.com/10-steps-overcome-impostor/">article</a>.
+- The 10 steps are from this <a href="https://impostorsyndrome.com/10-steps-overcome-impostor/">article</a> by <a href="https://impostorsyndrome.com/valerie-young/">Dr. Valerie Young</a>.
 
 - In the future, I plan to make this project responsive.
 
