@@ -34,7 +34,12 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-<a href=#100days>![under construction](Assets/lorem-text.png)</a>
+### Day 3: February 4, 2021
+- For Day 3, I turned a tutorial for a progress bar into 10 steps for overcoming imposter syndrome.
+
+- The 10 steps are from this <a href="https://impostorsyndrome.com/10-steps-overcome-impostor/">article</a>.
+
+- In the future, I plan to make this project responsive.
 
 #
 
@@ -57,7 +62,7 @@ open index.html
 
 <a href="https://emjose.github.io/progress-bar">![Live Site](Assets/inter-live-site.png)</a>  
 
-<a href="https://emjose.github.io/progress-bar">![Under Construction](Assets/lorem-live.png)</a>
+<a href="https://emjose.github.io/progress-bar">![Live Site](Assets/003-progress.gif)</a>
 
 #
 
@@ -65,7 +70,17 @@ open index.html
 
 <a href=#resources>![Resources](Assets/inter-resources.png)</a>  
 
-<a href=#resources>![Under Construction](Assets/lorem-text.png)</a>
+- #### [What is Imposter Syndrome?](https://www.verywellmind.com/imposter-syndrome-and-social-anxiety-disorder-4156469)
+
+- #### [50 Projects in 50 Days Udemy Course](https://www.udemy.com/course/50-projects-50-days/)
+
+- #### [Step Progress Bar Tutorial](https://youtu.be/qKjDXXkkg8I) by [Web Dev](https://www.youtube.com/channel/UCwjGnSW_aIzuqxCmwPWggNA)
+
+- #### [10 Steps You can Use to Overcome Imposter Syndrome](https://impostorsyndrome.com/10-steps-overcome-impostor/) by [Dr. Valerie Young](https://impostorsyndrome.com/valerie-young/)
+
+
+
+
 
 #
 
