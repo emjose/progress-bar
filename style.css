@@ -68,6 +68,10 @@ body {
 	transition: 0.4s ease;
 }
 
+#mobile {
+	display: none;
+}
+
 /* circles were originally 130px */
 .circle {
 	background-color: var(--white);
@@ -153,5 +157,17 @@ body {
 	}
 	.github-corner .octo-arm {
 		animation: octocat-wave 560ms ease-in-out;
+	}
+}
+
+@media (max-width: 360px) {
+	button,
+	.progress-container {
+		display: none;
+	}
+
+	#mobile {
+		display: inline-block;
+		margin: 0 5%;
 	}
 }
