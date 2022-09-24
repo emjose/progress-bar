@@ -80,7 +80,7 @@ open index.html
 
 -   #### [Step Progress Bar Tutorial](https://youtu.be/qKjDXXkkg8I) by [Web Dev](https://www.youtube.com/channel/UCwjGnSW_aIzuqxCmwPWggNA)
 
--   #### [10 Steps You can Use to Overcome Imposter Syndrome](https://impostorsyndrome.com/10-steps-overcome-impostor/) by [Dr. Valerie Young](https://impostorsyndrome.com/valerie-young/)
+-   #### [10 steps to reduce the impact of the Imposter Syndrome](https://www.thoughtworks.com/en-us/insights/blog/leadership/10-steps-to-reduce-the-impact-of-the-imposter-syndrome)
 
 -   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
 
