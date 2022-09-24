@@ -28,6 +28,8 @@
 -   [Resources](#resources)
 -   [Let's Connect!](#lets-connect)
 
+<br>
+
 #
 
 <p id="100days"><p>
@@ -41,6 +43,8 @@
 -   The 10 steps are from this <a href="https://impostorsyndrome.com/10-steps-overcome-impostor/">article</a> by <a href="https://impostorsyndrome.com/valerie-young/">Dr. Valerie Young</a>.
 
 -   In the future, I plan to make this project responsive.
+
+<br>
 
 #
 
@@ -60,6 +64,8 @@ git clone git@github.com:emjose/progress-bar.git && cd progress-bar
 open index.html
 ```
 
+<br>
+
 #
 
 <p id="live-site"><p>
@@ -67,6 +73,12 @@ open index.html
 <a href="https://emjose.github.io/progress-bar">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
 <a href="https://emjose.github.io/progress-bar">![Live Site](Assets/003-progress.gif)</a>
+
+• The **[Progress Bar](https://emjose.github.io/progress-bar/)** is best viewed on a desktop or laptop computer browser.
+
+• The **[Progress Bar](https://emjose.github.io/progress-bar/)** is keyboard-navigable and is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+
+<br>
 
 #
 
@@ -83,6 +95,8 @@ open index.html
 -   #### [10 steps to reduce the impact of the Imposter Syndrome](https://www.thoughtworks.com/en-us/insights/blog/leadership/10-steps-to-reduce-the-impact-of-the-imposter-syndrome)
 
 -   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
+
+<br>
 
 #
 
